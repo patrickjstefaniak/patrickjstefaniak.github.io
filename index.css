@@ -1,0 +1,43 @@
+body{
+	background-image: url('background.png');
+}
+
+#site{
+	height: 1500px;
+	margin: 0 auto;
+	width: 1400px;
+}
+
+#title{
+	text-align: center;
+	font-family: "Cantarell";
+	color: #515151;
+	font-size: 80px;
+	top: 50px;
+	z-index: 2;
+	letter-spacing: 7px;
+	position: relative;
+	margin: auto;
+	width: 800px;
+	
+}
+
+
+#menu{
+	position: relative;
+	font-family: "Cantarell";
+	top: 200px;
+	line-height: 3;
+	z-index: 2;
+	width: 200px;
+}
+
+a {
+	color: #0066ff;
+	text-decoration: none;
+	font-size: 30px;
+	transition: color 4s;
+	z-index: 2;
+}:hover{
+	color: #993366;
+}

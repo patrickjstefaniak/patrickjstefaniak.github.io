@@ -1,0 +1,173 @@
+p{font-family: "Rubik", sans-serif;}
+
+#headerlink{
+	position: absolute;
+	top: 0px;
+	left: -20px;
+}
+
+#portfoliod{
+	transition: opacity .5s;
+	position: relative;
+	top: -200px;
+	width: 1000px;
+	left: 0px;
+	height: 1000px;
+	margin: auto;
+}
+
+#ptitle{
+	position: absolute;
+	top: -50px;
+	left: 50px;
+	font-size: 40px;
+}
+
+#next{
+	position: absolute;
+	left: 150px;
+}
+
+#previous{
+	position: absolute;
+	left: 0px;
+}
+
+button{
+	top: 760px;
+	width: 100px;
+	height: 50px;
+	border:none;
+	background-color: #ffcc99;
+	font-size: 20px;
+}
+
+button:hover{
+	background-color: #0400ff;
+	color: #ffffff;
+}
+
+#next{
+	left: 900px;
+}
+
+#videop{
+	transition: opacity .5s;
+position: relative;
+	top: 150px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#photop{
+	transition: opacity .5s;
+	position: relative;
+	top: -450px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+  max-height: 565px;
+
+}
+
+#linkp{
+position: absolute;
+	top: 250px;
+	left: 50%;
+	font-size: 50px;
+	transition: opacity .5s;
+}
+
+#textbox{
+	position: absolute;
+	background-color: #00ffcc;
+	width: 100%;
+	height: 400px;
+	top: 850px;
+	z-index: 0;
+	transition: background-color 10s;
+	transition-timing-function: ease-out;
+}
+
+#textbox:hover{
+	background-color: #80b3ff;
+}
+
+#namep{
+	transition: opacity .5s;
+	width: 1000px;
+position: absolute;
+	top: 50px;
+	font-size: 25px;
+	font-weight: bold;
+	left: 90px;
+	z-index: 2;
+}
+
+#infop{
+	transition: opacity .5s;
+position: absolute;
+	width: 700px;
+	top: 95px;
+	font-size: 18px;
+	font-style: italic;
+	left: 90px;
+}
+
+#bodyp{
+	transition: opacity .5s;
+position: absolute;
+	top: 150px;
+	font-size: 18px;
+	width: 800px;
+	left: 110px;
+}
+
+#archive{
+	position: absolute;
+	top: 1290px;
+	left: 900px;
+}
+
+#projectLink{
+	position: absolute;
+	top: 1290px;
+	left: 0px;
+	width: 200px;
+}
+
+#photoOverlay{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 3;
+	opacity: 0;
+	pointer-events: none;
+	top: 0;
+	left: 0;
+	transition: opacity .5s;
+	transition-timing-function: ease-in-out;
+}
+
+#photoO{
+	display: block;
+	position: relative;
+	margin: auto;
+	top: 5%;
+	z-index: 4;
+	max-height: 90%;
+	max-width: 90%;
+	pointer-events: none;
+}
+
+#overlayBack{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	opacity: .9;
+	background-color: #ddcee0;
+	z-index: 3;
+}
