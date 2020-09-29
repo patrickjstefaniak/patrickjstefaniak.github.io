@@ -18,7 +18,7 @@ var portfoliostuff = {
 		},
 		{
 			"type":"img",
-			"link":"crochetcube.jpg",
+			"link":"crochetcube.JPG",
 			"externalLink":"",
 			"name":"Unity Primitive: Cube",
 			"info":"Hand Crocheted Acrylic Yarn - 1x1x1 meter - 2019-20",
@@ -26,7 +26,7 @@ var portfoliostuff = {
 		},
 		{
 			"type":"img",
-			"link":"beinganartist.jpg",
+			"link":"beinganartist.JPG",
 			"externalLink":"",
 			"name":"Being an Artist",
 			"info":"Video, Paintings, and Website - 2016/20",
