@@ -1,0 +1,137 @@
+body{
+	background-color: #000051;
+}
+
+#site{
+	height: 1500px;
+	margin: 0 auto;
+	width: 1400px;
+	font-family: 'Varela Round', sans-serif;
+	color: #ced2d7;
+}
+
+#video1{
+	position: relative;
+	top: 100px;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#skill{
+	position: relative;
+	top: 250px;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#essay{
+	position: relative;
+	top: 300px;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 600px;
+}
+
+#gesture{
+	position: relative;
+	top: -900px;
+	left: 1150px;
+}
+
+
+
+#blank{
+	position: relative;
+	top: 150px;
+	left: -230px;
+}
+
+#paintings{
+	position: relative;
+	display: block;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 1000px;
+ 	top: 200px;
+ 	left: 25px;
+}
+
+.progress{
+	padding-left: 30px; 
+	padding-bottom: 30px;
+}
+
+#vision{
+	position: relative;
+	top: 450px;
+	left: 800px;
+}
+
+#irl{
+	position: relative;
+	width: 800px;
+	height: 600px;
+	left: -100px;
+}
+
+#chart{
+	position: relative;
+	display: block;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	top: 150px;
+}
+
+#p1{
+	position: relative;
+	left: 0px;
+ 	top: -850px;
+}
+
+#p2{
+	position: relative;
+	left: 900px;
+ 	top: -850px;
+}
+
+#timeline{
+	position: relative;
+	display: block;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	top: 275px;
+ 	width: 100%;
+}
+
+#graph{
+	position: relative;
+	display: block;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	top: 50px;
+}
+
+#mood{
+	position: relative;
+	top: 200px;
+}
+
+#theif{
+	height: 600px;
+	width: 390px;
+	position: relative;
+	top: 700px;
+	left: 100px;
+}
+
+#apprehended{
+	position: relative;
+	top: 500px;
+	left: -100px;
+}
+
+
+
