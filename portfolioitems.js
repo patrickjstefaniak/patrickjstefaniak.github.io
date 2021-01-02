@@ -27,7 +27,7 @@ var portfoliostuff = {
 		{
 			"type":"img",
 			"link":"beinganartist.JPG",
-			"externalLink":"",
+			"externalLink":"http://patrickjstefaniak.com/Projects/beinganartist.html",
 			"name":"Being an Artist",
 			"info":"Video, Paintings, and Website - 2016/20",
 			"body":"I recorded myself playing The Sims and tried to live as an artist and then, looking back at the footage, compiled data about the money earned and time spent in this pursuit and documented the art I created."
