@@ -1,0 +1,25 @@
+body{
+	background-color: #80c28b;
+}
+
+#site{
+	height: 1500px;
+	margin: 0 auto;
+	width: 1400px;
+	font-family: "Cantarell";
+	color: #ced2d7;
+}
+
+
+
+#text{
+	position: relative;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	top: 0px;
+ 	width: 1000px;
+ 	left: 250px;
+ 	font-size: 20px;
+ 	color: #4f4f4f;
+}

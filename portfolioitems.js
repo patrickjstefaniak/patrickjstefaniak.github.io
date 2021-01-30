@@ -43,7 +43,7 @@ var portfoliostuff = {
 		{
 			"type":"video",
 			"link":"439622826",
-			"externalLink":"https://vimeo.com/manage/439622826/general",
+			"externalLink":"https://vimeo.com/439622826",
 			"name":"OPEN LOOT BOX (367 boxes)",
 			"info":"HD Video - 44:40 - 2020",
 			"body":"Loot boxes in the game Overwatch are earned either by playing and slowly accumulating them or by purchasing them. They contain character skins, voice lines, and graffiti tags that are only cosmetic, they don't change the dynamics of how the game is played. This was about a years worth of boxes gained after many hours of play."
