@@ -25,7 +25,14 @@ p{font-family: "Rubik", sans-serif;}
 
 #next{
 	position: absolute;
-	left: 150px;
+	left: 900px;
+}
+
+#projectLink{
+	position: absolute;
+
+	left: 400px;
+	width: 200px;
 }
 
 #previous{
@@ -47,9 +54,7 @@ button:hover{
 	color: #ffffff;
 }
 
-#next{
-	left: 900px;
-}
+
 
 #videop{
 	transition: opacity .5s;
@@ -126,18 +131,9 @@ position: absolute;
 	left: 110px;
 }
 
-#archive{
-	position: absolute;
-	top: 1290px;
-	left: 900px;
-}
 
-#projectLink{
-	position: absolute;
-	top: 1290px;
-	left: 0px;
-	width: 200px;
-}
+
+
 
 #photoOverlay{
 	position: absolute;
