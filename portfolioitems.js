@@ -1,20 +1,12 @@
 var portfoliostuff = {
 	"items":[
 		{
-			"type":"video",
-			"link":"531080367",
-			"externalLink":"https://twitter.com/sutopat/status/1372637904879505411",
-			"name":"CUBEISM 2: Baroque Edition",
-			"info":"Videogame  - 2021 (in progress)",
-			"body":""
-		},
-		{
 			"type":"img",
-			"link":"beingacube.JPG",
+			"link":"beingacube.jpeg",
 			"externalLink":"https://twitter.com/sutopat/status/1345141130078244864",
 			"name":"A few ways of being a cube",
 			"info":"PLA and Acrylic - 4ft x 4ft x 4in - 2021",
-			"body":""
+			"body":"A grid of 64 3D prints of cubes that have been deformed through cloth simulation."
 		},
 		{
 			"type":"img",
@@ -23,6 +15,14 @@ var portfoliostuff = {
 			"name":"Unity Primitive: Cube",
 			"info":"Hand Crocheted Acrylic Yarn - 1x1x1 meter - 2019-20",
 			"body":"In the Unity 3D game engine the default cube is grey and 1x1x1 unit. In VR and AR applications, the Unity unit translates to a meter in IRL space. For today's game engines rendering a cube is trivial, it can happen in a fraction of a second. Crocheting the same cube with yarn took me a year and a half. The inside is empty. Just like the digital 3D model it is a closed surface of faces. It takes 2 people to hold it up and see the 3 dimensional cube shape, and even then it sags."
+		},
+		{
+			"type":"video",
+			"link":"531080367",
+			"externalLink":"https://twitter.com/sutopat/status/1372637904879505411",
+			"name":"CUBEISM 2: Baroque Edition",
+			"info":"Videogame  - 2021 (in progress)",
+			"body":"This piece is part of my MFA thesis show CLOTH^3, along with Unity Primitive: Cube and A few ways of being a cube. The levels in the game are digital versions of the other two sculptures, either the malleable crocheted cube or the grid of 3D prints. It is being developed both as a 2 channel installation played on touchscreen and projector and a version that will be downloadable online for the desktop to play with a mouse."
 		},
 		{
 			"type":"img",
@@ -34,11 +34,11 @@ var portfoliostuff = {
 		},
 		{
 			"type":"img",
-			"link":"sourcecode.JPG",
-			"externalLink":"images/sourcecode.JPG",
+			"link":"sourcecode.jpeg",
+			"externalLink":"images/sourcecode.jpeg",
 			"name":"Unity Source Code in C#",
-			"info":"Acid-free paper -  - 2020",
-			"body":""
+			"info":"Acid-free copy paper - 8.5x11x11 inches - 2020",
+			"body":"A print-out of all the C# source code that makes up the open source Unity game engine."
 		},
 		{
 			"type":"video",
