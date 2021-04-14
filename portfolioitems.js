@@ -2,19 +2,19 @@ var portfoliostuff = {
 	"items":[
 		{
 			"type":"video",
-			"link":"387073602",
-			"externalLink":"https://sutopat.itch.io/site-holes",
-			"name":"Site Holes - 2019",
-			"info":"VR Installation and Zine",
-			"body":"Punching holes in objects reveals the backgrounds that support their existence. Put enough holes in something and it will lose legibility and could eventually fall apart. Our sight is full of gaps that only become visible once we stop and search for them. What happens when we're looking for holes?"
+			"link":"531080367",
+			"externalLink":"https://twitter.com/sutopat/status/1372637904879505411",
+			"name":"CUBEISM 2: Baroque Edition",
+			"info":"Videogame  - 2021 (in progress)",
+			"body":""
 		},
 		{
-			"type":"video",
-			"link":"392117597",
-			"externalLink":"https://sutopat.itch.io/minimal-feelings",
-			"name":"Minimal Feelings - 2020",
-			"info":"VR Installation and Zine",
-			"body":"An installation with VR, books, images and drawings, tape, and a zine.  Despite knowing that minimal art was made by men who did terrible things, that it is still used to propagate insular art world discussions and flows of money, and that it offers nothing obvious in terms of content or emotion, why am I constantly drawn to it?"
+			"type":"img",
+			"link":"beingacube.JPG",
+			"externalLink":"https://twitter.com/sutopat/status/1345141130078244864",
+			"name":"A few ways of being a cube",
+			"info":"PLA and Acrylic - 4ft x 4ft x 4in - 2021",
+			"body":""
 		},
 		{
 			"type":"img",
@@ -23,6 +23,38 @@ var portfoliostuff = {
 			"name":"Unity Primitive: Cube",
 			"info":"Hand Crocheted Acrylic Yarn - 1x1x1 meter - 2019-20",
 			"body":"In the Unity 3D game engine the default cube is grey and 1x1x1 unit. In VR and AR applications, the Unity unit translates to a meter in IRL space. For today's game engines rendering a cube is trivial, it can happen in a fraction of a second. Crocheting the same cube with yarn took me a year and a half. The inside is empty. Just like the digital 3D model it is a closed surface of faces. It takes 2 people to hold it up and see the 3 dimensional cube shape, and even then it sags."
+		},
+		{
+			"type":"img",
+			"link":"renderunravel.JPG",
+			"externalLink":"images/renderunravel.JPG",
+			"name":"render + unravel",
+			"info":"Acrylic Yarn and Acrylic -  - 2020",
+			"body":""
+		},
+		{
+			"type":"img",
+			"link":"sourcecode.JPG",
+			"externalLink":"images/sourcecode.JPG",
+			"name":"Unity Source Code in C#",
+			"info":"Acid-free paper -  - 2020",
+			"body":""
+		},
+		{
+			"type":"video",
+			"link":"387073602",
+			"externalLink":"https://sutopat.itch.io/site-holes",
+			"name":"Site Holes",
+			"info":"VR Installation and Zine  - 2019",
+			"body":"Punching holes in objects reveals the backgrounds that support their existence. Put enough holes in something and it will lose legibility and could eventually fall apart. Our sight is full of gaps that only become visible once we stop and search for them. What happens when we're looking for holes?"
+		},
+		{
+			"type":"video",
+			"link":"392117597",
+			"externalLink":"https://sutopat.itch.io/minimal-feelings",
+			"name":"Minimal Feelings",
+			"info":"VR Installation and Zine  - 2020",
+			"body":"An installation with VR, books, images and drawings, tape, and a zine.  Despite knowing that minimal art was made by men who did terrible things, that it is still used to propagate insular art world discussions and flows of money, and that it offers nothing obvious in terms of content or emotion, why am I constantly drawn to it?"
 		},
 		{
 			"type":"img",
