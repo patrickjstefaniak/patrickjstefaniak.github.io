@@ -10,7 +10,7 @@ var portfoliostuff = {
 		},
 		{
 			"type":"img",
-			"link":"crochetcube.jpg",
+			"link":"crochetcube.JPG",
 			"externalLink":"https://danmmfa.ucsc.edu/portfolio/patrick-stefaniak/",
 			"name":"Unity Primitive: Cube",
 			"info":"Hand Crocheted Acrylic Yarn - 1x1x1 meter - 2019-20",
