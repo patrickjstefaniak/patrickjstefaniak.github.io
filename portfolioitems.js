@@ -42,7 +42,7 @@ var portfoliostuff = {
 		},
 		{
 			"type":"img",
-			"link":"oneway.jpg",
+			"link":"oneway.JPG",
 			"externalLink":"",
 			"name":"A way of being a cube (fall)",
 			"info":"PLA - 12in x 12in x 2in - 2021",
