@@ -50,6 +50,14 @@ var portfoliostuff = {
 		},
 		{
 			"type":"img",
+			"link":"c2plp.jpg",
+			"externalLink":"",
+			"name":"c2p (cube to plane)(long projection)",
+			"info":"Acrylic on Acrylic Yarn - 6ft x 5ft x 3.5ft - 2021",
+			"body":"Part of series of crochet sculptures/paintings."
+		},
+		{
+			"type":"img",
 			"link":"c2p.jpg",
 			"externalLink":"",
 			"name":"c2p (cube to plane)",
@@ -58,18 +66,10 @@ var portfoliostuff = {
 		},
 		{
 			"type":"img",
-			"link":"p2p.jpg",
+			"link":"p2p2p.jpg",
 			"externalLink":"",
-			"name":"p2p (plane to plane)",
-			"info":"Acrylic on Acrylic Yarn - 15in x 28in - 2021",
-			"body":"Part of series of crochet sculptures/paintings."
-		},
-		{
-			"type":"img",
-			"link":"virtualcamera.jpg",
-			"externalLink":"",
-			"name":"Virtual Camera (cube)",
-			"info":"Acrylic on Acrylic Yarn - 9in x 13in - 2021",
+			"name":"p2p2p (plane to plane to plane)(kick)",
+			"info":"Acrylic on Acrylic Yarn - 17in x 24in - 2021",
 			"body":"Part of series of crochet sculptures/paintings."
 		},
 		{
