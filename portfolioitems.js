@@ -21,8 +21,72 @@ var portfoliostuff = {
 			"link":"cubeism2.jpg",
 			"externalLink":"https://danmmfa.ucsc.edu/portfolio/patrick-stefaniak/",
 			"name":"CUBEISM 2: Baroque Edition",
-			"info":"Videogame  - 2021 (in progress)",
-			"body":"This piece is part of my MFA thesis show CLOTH^3, along with Unity Primitive: Cube and A few ways of being a cube. The levels in the game are digital versions of the other two sculptures, either the malleable crocheted cube or the grid of 3D prints. It is being developed both as a 2 channel installation played on touchscreen and projector and a version that will be downloadable online for the desktop to play with a mouse."
+			"info":"Videogame  - 2021",
+			"body":"The levels in the game are digital versions of the other two sculptures, either the malleable crocheted cube or the grid of 3D prints. It exists as both as a 2 channel installation played on touchscreen and projector and a version that will is downloadable online for the desktop to play with a mouse."
+		},
+		{
+			"type":"img",
+			"link":"afewminiways.jpg",
+			"externalLink":"",
+			"name":"A few, mini ways of being a cube",
+			"info":"PLA - 6in x 6xin x .5in - 2021",
+			"body":"A print of A few ways of being a cube at the scale of one of the squares of its grid."
+		},
+		{
+			"type":"video",
+			"link":"624170269",
+			"externalLink":"https://vimeo.com/624170269",
+			"name":"A few ways of being A few ways of being a cube",
+			"info":"Video - 13:58 - 2021",
+			"body":"I take the grid of A few ways of being a cube and deform it through cloth simulation."
+		},
+		{
+			"type":"img",
+			"link":"oneway.JPG",
+			"externalLink":"",
+			"name":"A way of being a cube (fall)",
+			"info":"PLA - 12in x 12in x 2in - 2021",
+			"body":"One of the cubes from A few ways of being a cube, printed at a larger scale."
+		},
+		{
+			"type":"img",
+			"link":"c2plp.jpg",
+			"externalLink":"",
+			"name":"c2p (cube to plane)(long projection)",
+			"info":"Acrylic on Acrylic Yarn - 6ft x 5ft x 3.5ft - 2021",
+			"body":"Part of series of crochet sculptures/paintings."
+		},
+		{
+			"type":"img",
+			"link":"c2p.jpg",
+			"externalLink":"",
+			"name":"c2p (cube to plane)",
+			"info":"Acrylic on Acrylic Yarn - 15in x 50in - 2021",
+			"body":"Part of series of crochet sculptures/paintings."
+		},
+		{
+			"type":"img",
+			"link":"p2p2p.jpg",
+			"externalLink":"",
+			"name":"p2p2p (plane to plane to plane)(kick)",
+			"info":"Acrylic on Acrylic Yarn - 17in x 24in - 2021",
+			"body":"Part of series of crochet sculptures/paintings."
+		},
+		{
+			"type":"video",
+			"link":"650993446",
+			"externalLink":"https://vimeo.com/650993446",
+			"name":"Screen Tests (projection)",
+			"info":"Video projection installation - in progress",
+			"body":"I crocheted a projection screen that visitors can hold up to a projection screen displaying 3D shapes. The image changes in scale and skew depending on how the screen is held. The shapes themselves will also sometimes rotate and become askew, in reference primarily to the painting The Ambassadors, by Hans Holbein the Younger, which features a skull that can only be seen properly by standing to the side of the painting because of how it has been distorted."
+		},
+		{
+			"type":"video",
+			"link":"531008595",
+			"externalLink":"https://vimeo.com/531008595",
+			"name":"Screen Tests",
+			"info":"Video - in progress",
+			"body":"A series of video animations which start with a plane that is exactly aligned with the frame of the screen. The plane is then deformed through cloth simulation."
 		},
 		{
 			"type":"img",
@@ -42,6 +106,22 @@ var portfoliostuff = {
 		},
 		{
 			"type":"video",
+			"link":"531002658",
+			"externalLink":"https://sutopat.itch.io/die",
+			"name":"Die",
+			"info":"3D Environment for Virtual Reality - 2018",
+			"body":"Tony Smith said of his Die sculpture, \"I didn’t make a drawing; I just picked up the phone and ordered it.\" A 6'x6'x6' virtual black cube sits on the ground in the middle of the virtual reality play area, which can range from 6'6\" x 5' to 11'5\" x 11'5\". While standing inside the cube only solid black is visible. When looking at the cube from outside its boundaries, the environment's background is taken from the camera which is on the headset, so that it seems to be sitting in the physical space that the user is standing in. It is hard to get a good vantage point of the cube from such a constricted space and it doesn't seem to match correctly with the camera feed background."
+		},
+		{
+			"type":"video",
+			"link":"651001656",
+			"externalLink":"https://vimeo.com/651001656",
+			"name":"Shtrinkl",
+			"info":"Videogame - in progress",
+			"body":"In collaboration with Forest Reid. A videogame about string manipulation. The player will be able to move the mouse to play the displayed strings, which sound with samples from various string instruments. The completed game will also include samples of Yiddish poems which will also be played with, as the name for the data type in computer science for text is a string. This word play is common in Kabbalistic practice, which takes sacred texts as something to be subjected to various algorithms to produce new readings."
+		},
+		{
+			"type":"video",
 			"link":"387073602",
 			"externalLink":"https://sutopat.itch.io/site-holes",
 			"name":"Site Holes",
@@ -57,68 +137,12 @@ var portfoliostuff = {
 			"body":"An installation with VR, books, images and drawings, tape, and a zine.  Despite knowing that minimal art was made by men who did terrible things, that it is still used to propagate insular art world discussions and flows of money, and that it offers nothing obvious in terms of content or emotion, why am I constantly drawn to it?"
 		},
 		{
-			"type":"img",
-			"link":"beinganartist.JPG",
-			"externalLink":"http://patrickjstefaniak.com/Projects/beinganartist.html",
-			"name":"Being an Artist",
-			"info":"Video, Paintings, and Website - 2016/20",
-			"body":"I recorded myself playing The Sims and tried to live as an artist and then, looking back at the footage, compiled data about the money earned and time spent in this pursuit and documented the art I created."
-		},
-		{
-			"type":"video",
-			"link":"300208270",
-			"externalLink":"https://vimeo.com/300208270",
-			"name":"Butt of the Joke",
-			"info":"HD Video - 7:38 - 2018",
-			"body":"Cornhole is a popular game for backyards and tailgates in the Midwest. Players take turns tossing beanbags and attempting to land them on a flat, inclined wooden board or, ideally, in the hole cut into the top half of the board. In this video I took the place of the board, literalizing the homophobic and sexual implications of the name 'cornhole'."
-		},
-		{
-			"type":"video",
-			"link":"439622826",
-			"externalLink":"https://vimeo.com/439622826",
-			"name":"OPEN LOOT BOX (367 boxes)",
-			"info":"HD Video - 44:40 - 2020",
-			"body":"Loot boxes in the game Overwatch are earned either by playing and slowly accumulating them or by purchasing them. They contain character skins, voice lines, and graffiti tags that are only cosmetic, they don't change the dynamics of how the game is played. This was about a years worth of boxes gained after many hours of play."
-		},
-		{
-			"type":"video",
-			"link":"119792864",
-			"externalLink":"https://vimeo.com/119792864",
-			"name":"ergonomics",
-			"info":"HD Video- 34:56 - 2014",
-			"body":"The physical actions of labor while working on a computer are so minimal that we tend to consider it an entirely mental pursuit. By creating the a giant computer mouse shell out of steel, with a compartment to insert a real, working computer mouse, I turned the simple act of moving a mouse into a full-body workout. In the video, I use this giant mouse shell to play a game I created in Processing where I have to mouse over red pop-up notifications in a short, predetermined amount of time."
-		},
-		{
-			"type":"video",
-			"link":"297835871",
-			"externalLink":"https://sutopat.itch.io/field",
-			"name":"Field",
-			"info":"3D Environment for Virtual Reality - 2018",
-			"body":"White, rectangular, 6ft tall poles arranged in a grid with an undulating field of white noise. It is impossible to always keep their outlines visible; they emerge from and return to the background, which is only a few shades lighter. Our eyes, when presented with an undifferentiated field of white light, start to trick us into seeing shapes and forms in order to try and make sense of the space. These patterns of vision tend to follow the artifacts created by the imperfections of the headset, usually forgotten in the immersion of virtual reality environments."
-		},
-		{
 			"type":"video",
 			"link":"297839477",
 			"externalLink":"https://sutopat.itch.io/ball-orientation-practice-field",
 			"name":"Ball Orientation Practice Field",
 			"info":"Virtual Reality Golf - 2018",
 			"body":"The Virtual Reality headset is attached to a golf ball. When the player hits the ball it remains motionless and the world spins around it. If the player gets their head down on the ground near the ball they can hear it whisper a related passage from Brian Massumi's Parables of the Virtual."
-		},
-		{
-			"type":"video",
-			"link":"309216228",
-			"externalLink":"https://sutopat.itch.io/narcissistic-archery",
-			"name":"Narcissistic Archery",
-			"info":"Virtual Reality Archery - 2018",
-			"body":"A series of scenes where the player is able to use a bow and arrow to shoot at a target. As the scenes progress, the player's vantage point shifts in relation to the controllers and the target. Eventually, they share the target's perspective and are able to shoot at themselves from a distance."
-		},
-		{
-			"type":"video",
-			"link":"242685284",
-			"externalLink":"https://sutopat.itch.io/not-eye-b",
-			"name":"not eye (b)",
-			"info":"Virtual Reality - 2017",
-			"body":"This piece primarily uses the camera on the front of the Vive Virtual Reality headset, which is intended to give users a quick view of the physical space they are standing in for safety purposes. When this camera feed takes up the entire field of view in the headset, it presents a warped view of the physical space that the user is standing in. This is partly because it is constructed from a single camera instead of two eyes. This feed can also be multiplied, used as textures for 3D geometry, or stretched and rotated to create abstracted views of what the user would be seeing if they didn't have the headset on."
 		},
 		{
 			"type":"video",
@@ -130,43 +154,11 @@ var portfoliostuff = {
 		},
 		{
 			"type":"video",
-			"link":"242495014",
-			"externalLink":"https://sutopat.itch.io/rec",
-			"name":"rec.",
-			"info":"Videogame - PDF - 2017",
-			"body":"What's the difference between playing a record and playing a videogame? rec. is a single-button game which considers the form and physicality of vinyl record players. Traces of objects' movement are built up and wiped away as the objects spin, crash, pulsate, and are shot across the screen. It consists of a series of scenes which are punctuated by short pauses during which a sphere spins on the screen with a quiet noise, mimicking the empty space between vinyl tracks."
-		},
-		{
-			"type":"video",
-			"link":"309206071",
-			"externalLink":"https://sutopat.itch.io/die",
-			"name":"Die",
-			"info":"3D Environment for Virtual Reality - 2018",
-			"body":"Tony Smith said of his Die sculpture, \"I didn’t make a drawing; I just picked up the phone and ordered it.\" A 6'x6'x6' virtual black cube sits on the ground in the middle of the virtual reality play area, which can range from 6'6\" x 5' to 11'5\" x 11'5\". While standing inside the cube only solid black is visible. When looking at the cube from outside its boundaries, the environment's background is taken from the camera which is on the headset, so that it seems to be sitting in the physical space that the user is standing in. It is hard to get a good vantage point of the cube from such a constricted space and it doesn't seem to match correctly with the camera feed background."
-		},
-		{
-			"type":"video",
 			"link":"242495062",
 			"externalLink":"https://sutopat.itch.io/cubeism",
 			"name":"cubeism",
 			"info":"Videogame - 2015",
 			"body":"This game is a series of short scenes which contain exactly one cube, monotonous sounds, and any number of cameras. These camera views are layered on top of each other as a literal instantiation of Cubism. By rotating the cube, the player's understanding of this simple form falls apart and opens up in surprising ways."
-		},
-		{	
-			"type":"video",
-			"link":"242494972",
-			"externalLink":"http://sutopat.itch.io/spheres",
-			"name":"(sphere(s))",
-			"info":"Videogame - 2015",
-			"body":"This videogame considers the visuality and physicality of digital spheres in a series of scenes where the player can rotate and roll them. Sometimes the spheres, and the camera, are attached to one another’s positions and create patterns that evoke planetary orbit or chemical compounds."
-		},
-		{
-			"type":"video",
-			"link":"238305734",
-			"externalLink":"http://sutopat.itch.io/-l-a-n-d-s-c-a-p-i-n-g-",
-			"name":"____l_a_n_d_s_c_a_p_i_n_g____",
-			"info":"Live Video Animation - 2015",
-			"body":"A non-interactive series of scenes using prefab environmental assets which come included in the videogame engine software. Unity 3D has built-in assumptions that people will use it in order to create landscapes for characters/players to inhabit. I aim to examine these defaults and the ways that 3D spaces are constructed by using these tools as found objects."
 		}
 	]
 };
