@@ -46,11 +46,11 @@ a {
 }
 
 #textbox{
-	position: relative;
+	
 	width: 800px;
-	height: 570px;
+	
 	background-color: #ffcc33;
-	margin: auto;
+	
 	top: -130px;
 	
 }
@@ -71,6 +71,12 @@ a {
 	font-style: italic;
 }
 
+#bodee{
+	left: 300px;
+	position: relative;
+	top: -250px;
+}
+
 button{
 	top: -40px;
 	width: 100px;
@@ -78,7 +84,7 @@ button{
 	border:none;
 	background-color: #ffcc33;
 	font-family: "Cantarell";
-	position: relative;
+	
 	font-size: 15px;
 	left: 300px;
 	margin-right: 129px;
