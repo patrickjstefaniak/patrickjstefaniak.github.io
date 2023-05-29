@@ -27,16 +27,16 @@ body{
 	position: relative;
 	font-family: "Cantarell";
 	top: 200px;
-	line-height: 3;
+	line-height: 2;
 	z-index: 2;
 	width: 240px;
-	font-size: 40px;
+	font-size: 30px;
 	background-color: #99ff99;
 	color: #1c0007;
 }
 
 a {
-	color: #00d9ff;
+	color: #008a99;
 	text-decoration: none;
 	
 	transition: color 4s;
