@@ -43,3 +43,6 @@ a {
 }:hover{
 	color: #993366;
 }
+.crt-widget {
+  left: -150px;
+}
