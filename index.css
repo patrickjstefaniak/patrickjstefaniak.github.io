@@ -46,3 +46,6 @@ a {
 #curator-feed-default-feed-layout{
   left: -150px;
 }
+#clips{
+	position: relative;
+}
