@@ -19,16 +19,26 @@
 					<a href="about.html">- about me</a></p>
 			</div>
 
-			<div class="portfoliod">
-				<iframe class="videop" src="https://player.vimeo.com/video/309206071" width="1000" height="565" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-				<img class="photop"> </img>
-				<div class="textbox">
-					<p class="namep">Name</p>
-					<p class="infop">Info</p>
-					<p class="bodyp">Body</p>
-				</div>				
+			<div id="portfoliod">
+				<button id="next">></button>
+				<button id="projectLink">Go To Project Page</button>
+				<button id="previous"><</button>
+				<iframe id="videop" src="https://player.vimeo.com/video/309206071" width="1000" height="565" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<img id="photop"> </img>
+				<a id="linkp">Link to work.</a>
+				<div id="textbox">
+					<p id="namep">Name</p>
+					<p id="infop">Info</p>
+					<p id="bodyp">Body</p>
+				</div>
+				
+				
 			</div>
 			
+		</div>
+		<div id="photoOverlay">
+			<div id="overlayBack"></div>
+			<img id="photoO"></img>
 		</div>
 	</body>
 	<script src="portfolio.js"></script>

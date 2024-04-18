@@ -46,9 +46,9 @@ a {
 }
 
 #textbox{
-	position: relative;
+	
 	width: 800px;
-	height: 570px;
+	
 	background-color: #ffcc33;
 	margin: auto;
 	top: -130px;
@@ -78,7 +78,7 @@ button{
 	border:none;
 	background-color: #ffcc33;
 	font-family: "Cantarell";
-	position: relative;
+	
 	font-size: 15px;
 	left: 300px;
 	margin-right: 129px;
