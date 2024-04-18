@@ -1,10 +1,27 @@
 p{font-family: "Rubik", sans-serif;}
 
 
+#clips{
+	position: absolute;
+	top: 200px;
+	left: 480px;
+	width: 1050px;
+	display: inline-block;
+}
+
+#menu{
+	background-color: #6ded9e;
+}
+
 .portfoliod{
 	width: 300px;
-	height: 750px;
+
+	
+	padding-right: 33px;
+	position: relative;
+	display: inline-block;
 }
+
 
 .ptitle{
 	position: absolute;
@@ -25,7 +42,11 @@ p{font-family: "Rubik", sans-serif;}
 .textbox{
 	background-color: #00ffcc;
 	width: 100%;
+<<<<<<< HEAD
 	height: 400px;
+=======
+
+>>>>>>> adf182c7f46bae64d7cee017b665b24aea6b53b5
 	z-index: 0;
 	transition: background-color 10s;
 	transition-timing-function: ease-out;

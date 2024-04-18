@@ -43,3 +43,7 @@ a {
 }:hover{
 	color: #993366;
 }
+
+#clips{
+	position: relative;
+}
