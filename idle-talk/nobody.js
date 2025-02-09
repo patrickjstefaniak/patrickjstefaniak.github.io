@@ -1,5 +1,5 @@
 let monoSynth;
-let s;
+let s = true;
 let bgtimer = 30;
 
 let rb = 200;
@@ -32,6 +32,7 @@ function setup() {
     num1 = new Numb(windowWidth/2, windowHeight/3);
     num2 = new Numb(windowWidth/2, windowHeight/3*2);
   }
+  userStartAudio();
 }
 
 function draw(){
@@ -55,7 +56,7 @@ function draw(){
 }
 
 function playSynth() {
-  userStartAudio();
+  
   s = true;
 
 //   let note = random(['Fb4', 'G4']);
