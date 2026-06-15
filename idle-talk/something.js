@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(250);
+  background(251);
   fill(255,255,255,96);
   noStroke();
   let steps = 20;
