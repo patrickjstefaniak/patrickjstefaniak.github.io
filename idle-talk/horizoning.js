@@ -12,7 +12,7 @@ function draw() {
   r = random(240,255);
   g = random(240,255);
   b = random(240,255);
-  background(r,g,b,random(0,5));
+  background(r,g,b,random(0,6));
   //stroke(random(230,240),random(230,240),random(230,250));
   //line(windowWidth/2,0,windowWidth/2,windowHeight);
   let bandwidth = random(10,50);
