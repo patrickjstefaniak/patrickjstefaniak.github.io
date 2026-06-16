@@ -23,7 +23,7 @@ function draw() {
     let pos = j * jumpp;
     for(let i = 0; i < bandwidth; i++){
       //print(baseColor.r);
-      stroke(random(r - 10,r + 10),random(g - 10,g + 10),random(b - 10,b + 10),random(1,15));
+      stroke(random(r - 10,r + 10),random(g - 10,g + 10),random(b - 10,b + 10),random(1,10));
       line(0,pos + i,windowWidth,pos + i);
     }
   }
