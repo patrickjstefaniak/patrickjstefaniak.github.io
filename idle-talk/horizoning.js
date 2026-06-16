@@ -17,7 +17,7 @@ function draw() {
   //line(windowWidth/2,0,windowWidth/2,windowHeight);
   let bandwidth = random(10,50);
   let jumpp = random (10,50);
-  let steps = windowHeight/(jumpp + bandwidth);
+  let steps = windowHeight/(jumpp + bandwidth)/2;
   //strokeWeight(random(1,5));
   for(let j = 0; j < steps; j++){
     let pos = j * jumpp;
