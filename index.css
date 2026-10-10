@@ -45,5 +45,6 @@ a {
 }
 
 #clips{
-	position: relative;
+	position: absolute;
+
 }
